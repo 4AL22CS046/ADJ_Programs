@@ -19,3 +19,5 @@
 [program_1c_4 o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(245).png)
 
 [program_1c_5 o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(247).png)
+
+(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(248).png)
