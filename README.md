@@ -12,8 +12,10 @@
 
 [program_1c_1 o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(242).png)
 
-(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(243).png)
+[program_1c_2 o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(243).png)
 
-https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(244).png
+[program_1c_3 o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(244).png)
 
-https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(245).png
+[program_1c_4 o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(245).png)
+
+[program_1c_5 o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(247).png)
