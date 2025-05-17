@@ -13,3 +13,5 @@
 [program_1c_1 o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(242).png)
 
 (https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(243).png)
+
+https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(244).png
