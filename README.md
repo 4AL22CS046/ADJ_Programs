@@ -60,5 +60,5 @@
 
 [program_5d o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(270).png)
 
-[program_6_ o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Program6/Screenshot%20(271).png) & (https://github.com/4AL22CS046/ADJ_Programs/blob/main/Program6/Screenshot%20(272).png)
+[program_6 FactorialServlet o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Program6/Screenshot%20(271).png) & (https://github.com/4AL22CS046/ADJ_Programs/blob/main/Program6/Screenshot%20(272).png)
 
