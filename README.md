@@ -46,15 +46,17 @@
 
 [program_3c_5 o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(260).png)
 
-(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(262).png)
+[program_4a o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(262).png)
 
-(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(263).png)
+[program_4b o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(263).png)
 
-(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(265).png)
+[program_4c o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(265).png)
 
-(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(266).png)
+[program_5a o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(266).png)
 
-(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(267).png)
+[program_5c o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(267).png)
 
-(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(269).png)
+[program_5c o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(269).png)
+
+[program_5d o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(270).png)
 
