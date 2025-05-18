@@ -1,3 +1,5 @@
+{program1 : 
+
 [program_1a o/p_link]-> (https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(236).png)
 
 [program_1b_1 o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(237).png)
@@ -20,6 +22,7 @@
 
 [program_1c_5 o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(247).png)
 
+}
 [program_2a o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(248).png)
 
 [program_2b o/p_link]->(https://github.com/4AL22CS046/ADJ_Programs/blob/main/Screenshot%20(249).png)
